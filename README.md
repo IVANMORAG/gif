@@ -1,6 +1,4 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+
 
 <a target="_blank" align="center">
   <img align="center" height="500" width="1000" alt="GIF" src="https://github.com/IVANMORAG/gif/blob/main/uno.gif">
